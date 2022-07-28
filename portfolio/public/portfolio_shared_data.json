@@ -1,0 +1,56 @@
+{
+  "basic_info": {
+    "name": "Amani Al-Smadi",
+    "titles": [ "Communication & Software Engineer" ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/AmaniAlsmadi",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/al.amani.94/?hl=en",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "amani.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+    
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+     
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+  }
